@@ -13,7 +13,7 @@ Ejercicios prácticos:
     elementos de sus columnas y la suma de todos los elementos de sus diagonales son iguales. Compruebe que la matriz A(5x5) es
     mágica y que las 12 (en este caso) sumas mencionadas anteriormente dan lo mismo. Utiles: np.diag, np.fliplr
     
-    A = np.array([[17, 24, 1, 8, 15]], [23, 5, 7, 14, 16], [4, 6, 13, 20, 22], [10, 12, 19, 21, 3], [11, 18, 25, 2, 9])
+    A = np.array([[17, 24, 1, 8, 15], [23, 5, 7, 14, 16], [4, 6, 13, 20, 22], [10, 12, 19, 21, 3], [11, 18, 25, 2, 9]])
     
   3. a) Cree una subdivisión uniforme del intervalo (-1.3, 2.5) con 64 subdivisiones.
      b) Genere un arreglo de longitud 3n llenado con el patrón ciclico 1, 2, 3.
